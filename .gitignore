@@ -1,0 +1,7 @@
+compose-ubuntu/buildserver_pgdata/*
+
+compose-ubuntu/data_dir/config/*
+
+compose-ubuntu/data_dir/*
+
+compose-ubuntu/teamcity-server-logs/*
